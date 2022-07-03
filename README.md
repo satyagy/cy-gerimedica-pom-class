@@ -1,8 +1,13 @@
+Versions of required sotwares
+
+    Cypress -- 10.3.0
+    Cypress-fill-command -- 1.0.2
+
 Installation commands
 
     $ npm init -y
 
-    $ npm i -D cypress
+    $ npm i -D cypress cypress-fill-command
 
 To Run the scripts use below command if you didn't configure in package.json
 
