@@ -35,7 +35,7 @@ click on that, it will run all 3 test cases at a time.
 
 To get Video of all executed cases and screenshots for failed scenarios we need to run from CLI using below command 
 
-    $ ./node_modules/.bin/cypress run
+    $ ./node_modules/.bin/cypress run --browser chrome
 
 
 To clone the project use the below command

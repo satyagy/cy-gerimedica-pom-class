@@ -5,9 +5,6 @@ describe("Launch website of Van Gogh Museum and navigate to collection page", ()
     //Opening the website
     homepage.open();
 
-    // Method to accepts Cookies
-    cy.acceptingCookies();
-
     //Here we are navigate to the collection page
     cy.navigateCollection();
   });
