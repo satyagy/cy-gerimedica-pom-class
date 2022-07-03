@@ -19,11 +19,3 @@ Cypress.Commands.add('validateDifferentWays', () => {
     //assertTing url is correct
     cy.url().should('include', 'collectie')
 })
-
-//Method to accept cookies
-Cypress.Commands.add('acceptingCookies', () => {
-    if (homepage.cookiesAcceptButton.should("be.visible")) {
-        homepage.cookiesAcceptButton.click();
-      }
-})
-

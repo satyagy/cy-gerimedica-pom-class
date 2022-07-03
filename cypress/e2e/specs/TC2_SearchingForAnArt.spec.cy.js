@@ -5,7 +5,7 @@ describe("Load the collection search page in and search for an ART and validate 
     //To open the collection search page with URL
     collectionPage.open();
 
-    // Method to search for any Art by passing the parameter
+    //Method to search for any Art by passing the parameter
     cy.searchForArts("Het Gele Huis");
   });
 
