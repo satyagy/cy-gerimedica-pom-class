@@ -1,7 +1,7 @@
 {
   "name": "cy-gerimedica",
   "version": "1.0.0",
-  "description": "This project is for the assignment of GeriMedica",
+  "description": "This project is for the assignment of Gerimedica",
   "main": "e2e.js",
   "scripts": {
     "test": "npx cypress open --e2e --browser chrome"
