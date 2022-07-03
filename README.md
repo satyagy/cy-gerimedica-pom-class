@@ -40,6 +40,6 @@ To get Video of all executed cases and screenshots for failed scenarios we need 
 
 To clone the project use the below command
 
-    $ git clone git@github.com:satyagy/cy-GeriMedica.git
+    $ git clone https://github.com/satyagy/cy-gerimedica-pom-class.git
 
 Then follow the installation steps as given above
