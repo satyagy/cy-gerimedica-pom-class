@@ -7,9 +7,7 @@ describe("Load the collection search page in and search for an ART and validate 
 
     //Method to search for any Art by passing the parameter
     cy.searchForArts("Het Gele Huis");
-  });
-
-  it("I want to validate the search results count", () => {
+    
     //Method to validate the search results count
     cy.verifyResultCount(700);
   });
