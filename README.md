@@ -51,7 +51,7 @@ Then follow the installation steps as given above
 
 
 
-                                To Add reporting in the framework
+To Add reporting in the framework
 
 here is an awesome reporting tool for cypress 
 
