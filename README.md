@@ -48,3 +48,13 @@ To clone the project use the below command
     $ git clone https://github.com/satyagy/cy-gerimedica-pom-class.git
 
 Then follow the installation steps as given above
+
+
+
+To Add reporting in the framework
+
+here is an awesome reporting tool for cypress 
+
+        cypress-mochawesome-reporter
+
+Note: check the notes here https://www.npmjs.com/package/cypress-mochawesome-reporter
